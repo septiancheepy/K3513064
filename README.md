@@ -1,2 +1,10 @@
 # K3513064
-Awal Project oleh Septian Nugroho
+Assignment for Free Open Source Software - Github Management
+
+How to Use :
+
+Download in zip file this project
+
+View documentation on Baca dulu.docx
+
+Enjoy
