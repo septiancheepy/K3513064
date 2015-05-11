@@ -3,7 +3,6 @@
  * Tugas Foss (point 7. Edit file index.php)
 */
 //Edit file oleh K3513048
-//Edit file oleh K3513048
 
 /*
  *---------------------------------------------------------------
